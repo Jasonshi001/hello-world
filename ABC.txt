@@ -1,0 +1,7 @@
+Dev team:
+Paypal subscription (Amount auto deduct)
+service vs software product
+
+Auth0 integration
+
+Create a ticket on duplicate repository in JupyterShare: Where to put the ticket
